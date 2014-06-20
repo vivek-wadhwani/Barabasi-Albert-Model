@@ -1,7 +1,9 @@
 ACN Project
+
+Vivek Wadhwani
 Anchal Katyal
 Vasim Mansuri
-Vivek Wadhwani
+
 
 
 For running the code--->
@@ -11,7 +13,9 @@ M0Node1 file : M0Node.java
 M0Node2 file : M0Node2.java
 M0Node3 file : M0Node3.java
 NewNode file : NewNode.java
-Congif1.propertiesCongif2.propertiesCongif3.properties
+Congif1.properties
+Congif2.properties
+Congif3.properties
 RoutingInfo.txt —> Creates and updates for each node
 
 On M0Node machine:
